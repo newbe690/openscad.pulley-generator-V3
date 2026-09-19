@@ -15,6 +15,8 @@ Add bolt holes, head recesses, and retainer/idler grooves to parametric pulley
 - Groove outer radius = pulley_OD/2 + 1 to cleanly clear tooth tips
 
 ![sample](https://user-images.githubusercontent.com/8453489/129447605-69126f5d-a0a7-474f-9418-da2978a2a65b.png)
+![sample](https://github.com/newbe690/openscad.pulley-generator-V3/blob/d31a77610e848ef7d4dbf18210286036bcb8977b/Sample2.png)
+
 
 
 Enjoy!
